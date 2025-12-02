@@ -57,11 +57,11 @@ cat ~/.ssh/id_yourkey.pub
 Copy the full line.
 
 On GitHub:
-	1.	Settings → SSH and GPG keys
-	2.	New SSH key
-	3.	Give it a title (e.g. MacBook)
-	4.	Paste the key
-	5.	Save
+1.	Settings → SSH and GPG keys
+2.	New SSH key
+3.	Give it a title (e.g. MacBook)
+4.	Paste the key
+5.	Save
 
 ## 5. Test the SSH connection
 ```bash
